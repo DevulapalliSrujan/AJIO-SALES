@@ -1,27 +1,17 @@
-The AJIO Sales Dashboard is a data visualization project that helps analyze e-commerce sales performance. It provides insights into revenue, profit, customer trends, and top-selling products to supports business decisions.
+AJIO Sales Dashboard
 
-🎯 Features
+The AJIO Sales Dashboard is a data visualization project that helps analyze e-commerce sales performance. It provides insights into revenue, profit, customer trends, and top-selling products to support business decisions.
 
-Tracks total sales, profit, and order trends.
+Features
+- Tracks total sales, profit, and order trends  
+- Displays regional and customer-based sales  
+- Analyzes payment methods and discount impacts  
 
-Shows top-selling products and categories.
+Tools Used
+- Power BI / Tableau  
+- Python (Pandas, Plotly)  
+- Excel / SQL  
 
-Displays regional and customer-based sales.
-
-Analyzes payment methods and discount impacts.
-
-🧰 Tools Used
-
-Power BI / Tableau
-
-Python (Pandas, Plotly)
-
-Excel / SQL
-
-💡 Key Insights
-
-Identified top-performing products and regions.
-
-Analyzed sales growth and seasonal trends.
-
-Helped optimize marketing and inventory strategies.
+Key Insights
+- Identified top-performing products and regions  
+- Observed customer purchasing patterns and seasonal trends  

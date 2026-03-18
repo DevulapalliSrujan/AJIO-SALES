@@ -8,10 +8,10 @@ Features
 - Analyzes payment methods and discount impacts  
 
 Tools Used
-- Power BI / Tableau  
-- Python (Pandas, Plotly)  
-- Excel / SQL  
+- Power BI 
+- SQL
+- Excel  
 
 Key Insights
 - Identified top-performing products and regions  
-- Observed customer purchasing patterns and seasonal trends  
+- Observed customer purchasing patterns and seasonal trends.
